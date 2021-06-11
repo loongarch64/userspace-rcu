@@ -1,8 +1,8 @@
-#ifndef _URCU_ARCH_LOONGARCH64_H
-#define _URCU_ARCH_LOONGARCH64_H
+#ifndef _URCU_ARCH_LOONGARCH_H
+#define _URCU_ARCH_LOONGARCH_H
 
 /*
- * arch_loongarch64.h: trivial definitions for the LoongArch 64 architecture.
+ * arch/loongarch.h: trivial definitions for the LoongArch architecture.
  *
  * Copyright (c) 2021 Wang Jing <wangjing@loongson.cn>
  *
@@ -46,4 +46,4 @@ extern "C" {
 
 #include <urcu/arch/generic.h>
 
-#endif /* _URCU_ARCH_LOONGARCH64_H */
+#endif /* _URCU_ARCH_LOONGARCH_H */

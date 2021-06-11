@@ -51,7 +51,7 @@ Currently, the following architectures are supported:
   - hppa/PA-RISC
   - m68k
   - RISC-V
-  - LoongArch 64
+  - LoongArch
 
 Tested on:
 
