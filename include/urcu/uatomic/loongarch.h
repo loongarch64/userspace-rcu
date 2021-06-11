@@ -1,8 +1,8 @@
-#ifndef _URCU_UATOMIC_ARCH_LOONGARCH64_H
-#define _URCU_UATOMIC_ARCH_LOONGARCH64_H
+#ifndef _URCU_UATOMIC_ARCH_LOONGARCH_H
+#define _URCU_UATOMIC_ARCH_LOONGARCH_H
 
 /*
- * Atomic exchange operations for the LoongArch 64 architecture. Let GCC do it.
+ * Atomic exchange operations for the LoongArch architecture. Let GCC do it.
  *
  * Copyright (c) 2021 Wang Jing <wangjing@loongson.cn>
  *
@@ -41,4 +41,4 @@ extern "C" {
 
 #include <urcu/uatomic/generic.h>
 
-#endif /* _URCU_UATOMIC_ARCH_LOONGARCH64_H */
+#endif /* _URCU_UATOMIC_ARCH_LOONGARCH_H */

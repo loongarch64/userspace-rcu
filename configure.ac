@@ -146,7 +146,7 @@ AS_CASE([$host_cpu],
 	[hppa*], [ARCHTYPE="hppa"],
 	[m68k], [ARCHTYPE="m68k"],
 	[riscv*], [ARCHTYPE="riscv"],
-	[loongarch64*], [ARCHTYPE="loongarch64"],
+	[loongarch*], [ARCHTYPE="loongarch"],
 	[ARCHTYPE="unknown"]
 )
 
